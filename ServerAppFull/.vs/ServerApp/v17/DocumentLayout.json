@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A390FD4E-E417-4404-9232-F5E299CAA2C4}|..\\ServerAppTest\\ServerAppTest.csproj|c:\\users\\user1\\desktop\\msapps\\serverapptest\\serverapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390FD4E-E417-4404-9232-F5E299CAA2C4}|..\\ServerAppTest\\ServerAppTest.csproj|c:\\users\\user1\\desktop\\msapps\\serverapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\services\\userbatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:services\\userbatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F3F72-6098-4F33-9B77-072478F1DC3A}|..\\BatchServiceTest\\BatchServiceTest.csproj|c:\\users\\user1\\desktop\\msapps\\batchservicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F3F72-6098-4F33-9B77-072478F1DC3A}|..\\BatchServiceTest\\BatchServiceTest.csproj|c:\\users\\user1\\desktop\\msapps\\batchservicetest\\batchservicetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|c:\\users\\user1\\desktop\\msapps\\serverappfull\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E14D98D-0197-4ADE-A6FE-F26B9E508DA6}|ServerApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerAppTest",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppTest\\ServerAppTest.csproj",
+              "RelativeDocumentMoniker": "..\\ServerAppTest\\ServerAppTest.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppTest\\ServerAppTest.csproj",
+              "RelativeToolTip": "..\\ServerAppTest\\ServerAppTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T13:58:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:50:24.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserBatchService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Services\\UserBatchService.cs",
+              "RelativeDocumentMoniker": "Services\\UserBatchService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Services\\UserBatchService.cs",
+              "RelativeToolTip": "Services\\UserBatchService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:50:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:50:01.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatchServiceTest",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\BatchServiceTest\\BatchServiceTest.csproj",
+              "RelativeDocumentMoniker": "..\\BatchServiceTest\\BatchServiceTest.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\BatchServiceTest\\BatchServiceTest.csproj",
+              "RelativeToolTip": "..\\BatchServiceTest\\BatchServiceTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T13:38:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServerAppTest\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppTest\\Program.cs",
+              "RelativeToolTip": "..\\ServerAppTest\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:36:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\BatchServiceTest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BatchServiceTest\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\BatchServiceTest\\Program.cs",
+              "RelativeToolTip": "..\\BatchServiceTest\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:34:09.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:15:46.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:12:00.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:12:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\MsApps\\ServerAppFull\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T13:02:06.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
